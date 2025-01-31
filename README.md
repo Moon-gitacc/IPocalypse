@@ -13,8 +13,8 @@ Blocklist: Certain IPs are already doomed. 😵
 Allowlist: Some lucky ones get VIP access. 🎟️
 Rate Limiting: Spammers and bots? Blocked after 3 tries. 🚫
 🚀 How to Run
-git clone https://github.com/yourusername/totally-not-nsa-firewall.git
-cd totally-not-nsa-firewall
+git clone git clone https://github.com/Moon-gitacc/IPocalypse.git
+cd IPocalypse
 Fire it up like a true hacker:
 
 python3 firewall.py
